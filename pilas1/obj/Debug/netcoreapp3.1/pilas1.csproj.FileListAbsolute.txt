@@ -1,0 +1,13 @@
+C:\Users\Maria Florian\Music\pilas1\pilas1\bin\Debug\netcoreapp3.1\pilas1.exe
+C:\Users\Maria Florian\Music\pilas1\pilas1\bin\Debug\netcoreapp3.1\pilas1.deps.json
+C:\Users\Maria Florian\Music\pilas1\pilas1\bin\Debug\netcoreapp3.1\pilas1.runtimeconfig.json
+C:\Users\Maria Florian\Music\pilas1\pilas1\bin\Debug\netcoreapp3.1\pilas1.runtimeconfig.dev.json
+C:\Users\Maria Florian\Music\pilas1\pilas1\bin\Debug\netcoreapp3.1\pilas1.dll
+C:\Users\Maria Florian\Music\pilas1\pilas1\bin\Debug\netcoreapp3.1\pilas1.pdb
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.csprojAssemblyReference.cache
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.AssemblyInfoInputs.cache
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.AssemblyInfo.cs
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.csproj.CoreCompileInputs.cache
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.dll
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.pdb
+C:\Users\Maria Florian\Music\pilas1\pilas1\obj\Debug\netcoreapp3.1\pilas1.genruntimeconfig.cache
